@@ -1,12 +1,10 @@
-# Project:
+# Car Dealership Database
 
 ## Requirements:
 
 Copy the JSON from cars.json and assign it to a variable in a new application. This data holds sales information for a car dealership. Your job is to produce the following reports for the dealership based on their total 2017 sales.
 
 ## Currently Working On:
-
-* Report structure
 
 ## Remaining Features:
 
@@ -16,6 +14,7 @@ Copy the JSON from cars.json and assign it to a variable in a new application. T
 
 ## Completed features:
 
+* Report structure
 * Required reports:
     1. Total profit for 2017
     1. Which bank provided the most loans to our customers?
@@ -45,3 +44,9 @@ Copy the JSON from cars.json and assign it to a variable in a new application. T
 * credit {obj}
   * credit_provider
   * account
+
+## To run
+
+1. Clone the repo.
+2. From the command line, cd into the directory.
+3. Type ```hs -o``` into the command line.
